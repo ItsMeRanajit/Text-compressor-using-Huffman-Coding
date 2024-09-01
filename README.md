@@ -25,7 +25,7 @@
 
 ## Video Demo
 
-Watch the demo video [here](https://github.com/ItsMeRanajit/Text-compressor-using-Huffman-Coding.git/huffman.mp4).
+Watch the demo video [here](https://www.linkedin.com/posts/ranajit-das-8ba2b8239_datacompression-huffmancoding-java-activity-7225606848173813761-yw-7?utm_source=share&utm_medium=member_desktop).
 
     
 <h2>Contributing</h2>
